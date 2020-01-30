@@ -1,0 +1,5 @@
+the first number (int) represents the number of firms: n
+the next n numbers (float) represent c1~cn
+the next n numbers (float) represent d1~dn
+the next number (float) represents a
+the last number (float) represents b
